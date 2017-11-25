@@ -1,1 +1,0 @@
-# rankwatch_17_php_screenshot
